@@ -3,3 +3,4 @@ content/data/*
 content/images/*
 *.sublime*
 .idea
+.DS_Store
