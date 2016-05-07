@@ -1,6 +1,5 @@
 node_modules
-content/data/*
-content/images/*
 *.sublime*
 .idea
 .DS_Store
+npm-debug.log
